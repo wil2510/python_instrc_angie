@@ -6,7 +6,6 @@ animales[0]="oveja"
 
 print(animales)
 
-
 temperaturas=[22,18,30,25,26,20]
 temperaturas.append(20.5)
 temperaturas[4]=16

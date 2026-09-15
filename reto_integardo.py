@@ -18,9 +18,9 @@ for estudiante in estudiantes:
 
     # Verificamos si aprobó o reprobó
     if nota >= 6.0:
-        print(nombre, "- Aprobado")
+        print(nombre, "Aprobado")
     else:
-        print(nombre, "- Reprobado")
+        print(nombre, "Reprobado")
 
 # Calculamos el promedio general
 promedio = total / len(estudiantes)

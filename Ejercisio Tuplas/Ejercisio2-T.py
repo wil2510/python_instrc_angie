@@ -1,6 +1,5 @@
 estudiante = ("yedinson", 1, "ADSO")
 
-
 print("Nombre:", estudiante[0])
 print("Edad:", estudiante[1])
 print("Curso:", estudiante[2])
